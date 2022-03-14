@@ -5,8 +5,8 @@
 ## 🌅 Dank Memes
 
 * [IT](dank-memes/it/README.md)
-  * [March 2022](dank-memes/it/september-2021/README.md)
-    * [Week 11 (14 - 20 March)](dank-memes/it/september-2021/week-1-6-10-sept.md)
+  * [March 2022](dank-memes/it/march-2022/README.md)
+    * [Week 11 (14 - 20 March)](dank-memes/it/march-2022/week-1-6-10-sept.md)
 * [Random](dank-memes/random.md)
 
 ## 🎬 Youtube stuff
@@ -17,4 +17,4 @@
 
 ## 📖 Other funny stuff
 
-* [Articles](other-funny-stuff/company-weeklies.md)
+* [Articles](other-funny-stuff/articles.md)
