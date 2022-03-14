@@ -1,8 +1,4 @@
-# Week 1 (6 - 10 Sept)
-
-{% hint style="info" %}
-**Good to know:** Having a separate page for every quick daily/weekly sync you have can get a bit overwhelming. Sometimes it's best to have a page per-week or per-month!
-{% endhint %}
+# Week 11 (14 - 20 March)
 
 ## Monday 6th Sept
 

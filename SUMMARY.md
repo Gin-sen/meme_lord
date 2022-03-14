@@ -1,19 +1,20 @@
 # Table of contents
 
-* [Meeting Notes](README.md)
+* [Meme Notes](README.md)
 
-## Daily Syncs
+## 🌅 Dank Memes
 
-* [Design Standups](daily-syncs/design-standups/README.md)
-  * [September 2021](daily-syncs/design-standups/september-2021/README.md)
-    * [Week 1 (6 - 10 Sept)](daily-syncs/design-standups/september-2021/week-1-6-10-sept.md)
+* [IT](dank-memes/it/README.md)
+  * [March 2022](dank-memes/it/september-2021/README.md)
+    * [Week 11 (14 - 20 March)](dank-memes/it/september-2021/week-1-6-10-sept.md)
+* [Random](dank-memes/random.md)
 
-## Weekly Syncs
+## 🎬 Youtube stuff
 
-* [Company Weeklies](weekly-syncs/company-weeklies/README.md)
-  * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
+* [Short Videos](youtube-stuff/short-videos/README.md)
+  * [1st September 2021](youtube-stuff/short-videos/1st-september-2021.md)
+* [Conferences](youtube-stuff/conferences.md)
 
-## Other Regulars
+## 📖 Other funny stuff
 
-* [Company Weeklies](other-regulars/company-weeklies/README.md)
-  * [September 14th 2021](other-regulars/company-weeklies/september-14th-2021.md)
+* [Articles](other-funny-stuff/company-weeklies.md)
