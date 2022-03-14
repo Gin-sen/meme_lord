@@ -1,7 +1,7 @@
-# Meeting Notes
+# Meme Notes
 
-Keep your company's or teams' meeting notes in one place. Indexable, searchable and deep-linkable (yes, that's a word).
+Keep your meme-game up-to-date.
 
 {% hint style="info" %}
-**Good to know:** GitBook is a great place to document your team's meetings, giving folks access to documentation from every meeting. This template is structured in a way that gives collaborative, open note-taking centre stage. There's no reason why you can't use it for private or personal meeting notes though!
+**Good to know:** GitBook is a great place to store your memes, giving folks access to memes from every shitpost you've met. This template is structured in a way that gives collaborative, open note-taking centre stage. There's no reason why you can't use it for private or personal memes notes though!
 {% endhint %}
