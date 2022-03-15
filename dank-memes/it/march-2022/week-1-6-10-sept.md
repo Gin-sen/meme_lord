@@ -1,7 +1,12 @@
 # Week 11 (14 - 20 March)
 
-## Monday 14th March
+## Tuesday 15th March
 
+![](../../../.gitbook/assets/demon-summoning-vs-programming.jpg)
+
+![](../../../.gitbook/assets/le-hash.jpg)
+
+## Monday 14th March
 
 ![](../../../.gitbook/assets/1st-rule-of-yaml.jpg)
 
@@ -133,7 +138,7 @@
 
 ![](../../../.gitbook/assets/modernize-your-apps.jpg)
 
-![](../../../.gitbook/assets/neural net.jpg)
+!\[]\(../../../.gitbook/assets/neural net.jpg)
 
 ![](../../../.gitbook/assets/no-emojis.jpg)
 
@@ -141,7 +146,7 @@
 
 ![](../../../.gitbook/assets/non-toxic-senior.jpg)
 
-![](../../../.gitbook/assets/oopsie-log4g.jpg_large)
+![](../../../.gitbook/assets/oopsie-log4g.jpg\_large)
 
 ![](../../../.gitbook/assets/ops-evolution.jpg)
 
