@@ -1,42 +1,39 @@
 # Week 11 (14 - 20 March)
 
-## Monday 6th Sept
+## Monday 14th March
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+![](../../../.gitbook/assets/cpp-for-python-dev.jpg)
 
-{% hint style="info" %}
-**Good to know:** it's always good to keep a record of who attended meetings, who was facilitating the meeting, and who was designated as the lucky person to take notes. A 'Users' column type in a table lets you quickly add any member of your organization to a column, making tracking this a breeze!
-{% endhint %}
+![](../../../.gitbook/assets/copy.jpg)
 
-* Image gallery designs coming along well
-* Need sales feedback on new marketing collateral
-* Blog post on variants ready to go
+![](../../../.gitbook/assets/commas-password.jpg)
 
-### Action items:
+![](../../../.gitbook/assets/cisco.jpg)
 
-* [ ] **Linda:** Nudge sales on collateral
-* [ ] **Suraj:** Send blog post to marketing for proof read
+![](../../../.gitbook/assets/cat-is-special.jpg)
 
-## Tuesday 7th Sept
+![](../../../.gitbook/assets/cancel-you.jpg)
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+![](../../../.gitbook/assets/bug-taxo.jpg)
 
-*
+![](../../../.gitbook/assets/bob-ross-rssi.jpg)
 
-## Wednesday 8th Sept
+![](../../../.gitbook/assets/blink-motherfucker.jpg)
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+![](../../../.gitbook/assets/bad-gateway.jpg)
 
-*
+![](../../../.gitbook/assets/backlog.jpg)
 
-## Thursday 9th Sept
+![](../../../.gitbook/assets/back-hurt.jpg)
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+![](../../../.gitbook/assets/astral-proj.jpg)
 
-*
+![](../../../.gitbook/assets/arch-users.jpg)
 
-## Friday 10th Sept
+![](../../../.gitbook/assets/ape-together-strong.jpg)
 
-{% hint style="success" %}
-No-meeting Friday!
-{% endhint %}
+![](../../../.gitbook/assets/adrenaline-junkies.jpg)
+
+![](../../../.gitbook/assets/about-containers.jpg)
+
+![](../../../.gitbook/assets/1st-rule-of-yaml.jpg)
